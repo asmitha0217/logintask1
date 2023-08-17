@@ -1,0 +1,121 @@
+@media screen  and (max-width:768px){
+  .firstForm{
+    padding-left: 50px !important;
+    margin-left: 150px !important;
+   }
+    .secondForm{
+      width: 400px !important;
+    }
+    .demo1{
+      margin-left: -300px !important;
+     }
+}
+@media screen  and (max-width:1024px){
+  .firstForm{
+    padding-left: 90px !important;
+    margin-left: 130px !important;
+   }
+    .secondForm{
+      width: 400px !important;
+    }
+}
+       
+
+.navSec{
+text-decoration: none;
+color: white;
+font-size: 40px;
+font-weight: bold;
+background-color: black;
+margin-left: 50px;
+}
+.div-Sec {
+  padding: 90px;
+}
+.button1{
+  padding-left: 160px;
+  padding-right: 170px;
+  height: 50px;
+  background-color: grey;
+}
+.button2{
+  height:50px;
+  padding-left: 120px;
+  padding-right: 90px;
+  background-color: grey;
+  
+}
+.button3{
+  height:50px;
+  padding-left: 120px;
+  padding-right: 100px;
+  background-color: grey;
+}
+.button4{
+  height:50px;
+  padding-left: 110px;
+  padding-right: 90px;
+  background-color: grey;
+}
+
+.firstForm{
+  padding-left: 120px;
+  margin-left: 220px;
+ 
+ 
+  }
+  .secondForm{
+    width: 400px;
+  }
+  .demo1{
+   margin-left: -320px;
+  }
+  
+  h6{
+    overflow: hidden;
+    text-align: center;
+    padding: 30px;
+    color: grey;
+  }
+  
+  h6:before,
+  h6:after {
+    background-color: grey;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    position: relative;
+    vertical-align: middle;
+    width: 180px;
+  }
+  
+  h6:before {
+    right: 0.5em;
+    margin-left: -50%;
+  }
+  
+  h6:after {
+    left: 0.5em;
+    margin-right: -50%;
+  }
+  .FirstIcon{
+    width: 40px;
+    height: 30px;
+  }
+  .SecondIcon{
+    width: 40px;
+    height: 40px;
+  }
+  .ThirdIcon{
+    width: 40px;
+    height: 30px;
+    
+    
+  }
+  .FirstPara{
+    font-size: 15px;
+    color: grey;
+  }
+  .FirstDemo{
+    color: black;
+  }
